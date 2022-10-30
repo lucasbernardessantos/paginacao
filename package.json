@@ -1,0 +1,14 @@
+{
+  "name": "paginacao",
+  "version": "1.0.0",
+  "description": "Teste de paginação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
