@@ -6,6 +6,7 @@ export class nomeDAO {
     "Pedro", "Márica", "Lucas", "Fernanda",
     "Luiz", "Patrícia", "Marcos", "Aline",
     "Luis", "Sandra", "Gabriel", "Camila",
-    "Rafael", "Bruna", "Marcelo"
+    "Rafael", "Bruna", "Marcelo", "Milena",
+    "Vitória", "Thiago", "Eric"
   ]
 }

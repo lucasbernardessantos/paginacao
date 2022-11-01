@@ -21,8 +21,6 @@ export class nomeControl {
 
     let nomesPaginados = listaNomes.slice(inicio, fim)
 
-    console.log(nomesPaginados)
-
     nomesPaginados.forEach((nome, index) => {
       let novoElemento = this.criarNovoElemento(nome, index)
 
@@ -39,7 +37,6 @@ export class nomeControl {
       let button = this.construirButton(i, listaNomes)
       this.divPaginacao.appendChild(button)
     }
-    console.log(this.divPaginacao)
   }
 
   construirButton(pagina: number, listaNomes: string[]): HTMLButtonElement {
